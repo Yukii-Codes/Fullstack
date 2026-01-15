@@ -1,1 +1,8 @@
-
+body {
+  allign-items:center;
+}
+button{
+  padding:10px 20px;
+}
+button:hover{
+  background-color:red;
